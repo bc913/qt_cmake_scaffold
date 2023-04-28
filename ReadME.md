@@ -75,3 +75,11 @@ cmake --install build --config Release
 - [DeployQt5.cmake - Sample2](https://cmake.org/pipermail/cmake/2013-August/055525.html)
 
 - [DeployQt5.cmake - Sample3](https://phabricator.mitk.org/T18552?id=18552)
+
+### Qt6
+- [Using Conan for QT6](https://wiki.qt.io/Using_Conan_for_Qt6)
+- [Installing qt via conan package manager](https://www.qt.io/blog/installing-qt-via-conan-package-manager)
+- [Developing Qt6 Projects With CMake | Tools](https://www.youtube.com/watch?v=OigQPU2ukss)
+- [Qt's CMake deployment API](https://www.qt.io/blog/cmake-deployment-api)
+- [Deploying to linux with cmake](Deploying to Linux with CMake)
+- [qt_deploy_runtime_dependencies - docs](https://doc.qt.io/qt-6/qt-deploy-runtime-dependencies.html)
